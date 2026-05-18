@@ -26,14 +26,12 @@ My goal is to continuously build impactful analytics projects, improve my techni
 ## Data Visualization
 - Interactive Dashboard Design
 - Reporting & Visualization
-- Business Intelligence Dashboards
 - Performance Monitoring Dashboards
 
 ## Tools & Technologies
 - Microsoft Excel
 - SQL
 - Power BI
-- Python
 - Pivot Tables
 - Power Query
 - Conditional Formatting
@@ -48,11 +46,7 @@ Click below to view all Excel projects:
 🔗 [View Excel Projects](https://github.com/Prince-of-tech?tab=repositories&q=excel&type=&language=&sort=)
 
 ### Featured Excel Projects
-- HR Analytics Dashboard
-- Sales Performance Dashboard
-- Workforce Analytics Dashboard
-- KPI Reporting Dashboards
-
+- [HR Analytics Dashboard](...)
 ---
 
 ## 🗄 SQL Projects
@@ -61,10 +55,6 @@ Click below to view all SQL projects:
 🔗 [View SQL Projects](https://github.com/Prince-of-tech?tab=repositories&q=sql&type=&language=&sort=)
 
 ### Featured SQL Projects
-- Customer Sales Analysis
-- Employee Database Analysis
-- Sales & Revenue Queries
-- Business Intelligence Queries
 
 ---
 
@@ -74,10 +64,6 @@ Click below to view all Power BI projects:
 🔗 [View Power BI Projects](https://github.com/Prince-of-tech?tab=repositories&q=powerbi&type=&language=&sort=)
 
 ### Featured Power BI Projects
-- Business Performance Dashboard
-- Customer Insights Dashboard
-- Sales Analytics Dashboard
-- HR Analytics Dashboard
 
 ---
 
