@@ -46,7 +46,7 @@ Click below to view all Excel projects:
 🔗 [View Excel Projects](https://github.com/Prince-of-tech?tab=repositories&q=excel&type=&language=&sort=)
 
 ### Featured Excel Projects
-- [HR Analytics Dashboard](...)
+- [OPAY HR Analytics Dashboard](https://github.com/Prince-of-tech/OPAY_HR_ANALYTICS)
 ---
 
 ## 🗄 SQL Projects
