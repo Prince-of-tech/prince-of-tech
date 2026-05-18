@@ -11,7 +11,7 @@
 
 </a>
 
-<a href="https://wa.me/YOUR-NUMBER" target="_blank">
+<a href="https://wa.me/8087396225" target="_blank">
 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
@@ -37,9 +37,10 @@
 
 </p>
 ---
+
 # 👨‍💻 About Me
 
-I am a passionate and results-driven Data Analyst dedicated to transforming raw data into actionable business insights. I specialize in data cleaning, analysis, visualization, and dashboard development using tools like Excel, SQL, Power BI, and Python.
+I am a passionate and results-driven Data Analyst dedicated to transforming raw data into actionable business insights. I specialize in data cleaning, analysis, visualization, and dashboard development using tools like Excel, SQL and Power BI.
 
 I enjoy solving business problems with data-driven solutions and creating interactive dashboards that help organizations monitor performance, improve decision-making, and uncover valuable trends.
 
@@ -71,32 +72,87 @@ My goal is to continuously build impactful analytics projects, improve my techni
 
 ---
 
-# 📂 Project Portfolio
+# # 📂 My Projects By Tools
 
-## 📊 Excel Projects
-Click below to view all Excel projects:
+Here are my projects organized by the tools I use.  
 
-🔗 [View Excel Projects](https://github.com/Prince-of-tech?tab=repositories&q=excel&type=&language=&sort=)
-
-### Featured Excel Projects
-- [OPAY HR Analytics Dashboard](https://github.com/Prince-of-tech/OPAY_HR_ANALYTICS)
----
-
-## 🗄 SQL Projects
-Click below to view all SQL projects:
-
-🔗 [View SQL Projects](https://github.com/Prince-of-tech?tab=repositories&q=sql&type=&language=&sort=)
-
-### Featured SQL Projects
+Click on any category to explore all my projects 👇
 
 ---
 
-## 📈 Power BI Projects
-Click below to view all Power BI projects:
+# 🟢 Excel Projects
 
-🔗 [View Power BI Projects](https://github.com/Prince-of-tech?tab=repositories&q=powerbi&type=&language=&sort=)
+<a href="https://github.com/Prince-of-tech?tab=repositories&q=excel&type=&language=&sort=">
 
-### Featured Power BI Projects
+<img src="https://img.shields.io/badge/View%20All%20Excel%20Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</a>
+
+<details>
+
+<summary>Click to see my featured Excel projects</summary>
+
+### 📊 HR Analytics Dashboard
+
+- Workforce Overview Dashboard
+
+- Employee Performance Dashboard
+
+- Training & HR Investment Dashboard
+
+### 📊 Sales Performance Dashboard
+
+Excel dashboard analyzing sales trends and revenue performance.
+
+</details>
+
+---
+
+# 🟡 Power BI Projects
+
+<a href="https://github.com/Prince-of-tech?tab=repositories&q=powerbi&type=&language=&sort=">
+
+<img src="https://img.shields.io/badge/View%20All%20Power%20BI%20Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</a>
+
+<details>
+
+<summary>Click to see my featured Power BI projects</summary>
+
+### 📈 Business Performance Dashboard
+
+Interactive dashboard for KPI and revenue monitoring.
+
+### 📈 Customer Insights Dashboard
+
+Power BI dashboard for customer behavior analysis.
+
+</details>
+
+---
+
+# 🔵 SQL Projects
+
+<a href="https://github.com/Prince-of-tech?tab=repositories&q=sql&type=&language=&sort=">
+
+<img src="https://img.shields.io/badge/View%20All%20SQL%20Projects-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</a>
+
+<details>
+
+<summary>Click to see my featured SQL projects</summary>
+
+### 🗄 Customer Sales Analysis
+
+SQL analysis of customer purchasing behavior and revenue trends.
+
+### 🗄 Employee Database Analysis
+
+SQL queries for workforce and HR insights.
+
+</details>
 
 ---
 
