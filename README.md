@@ -72,7 +72,7 @@ My goal is to continuously build impactful analytics projects, improve my techni
 
 ---
 
-# # 📂 My Projects By Tools
+#  📂 My Projects By Tools
 
 Here are my projects organized by the tools I use.  
 
@@ -92,17 +92,13 @@ Click on any category to explore all my projects 👇
 
 <summary>Click to see my featured Excel projects</summary>
 
-### 📊 HR Analytics Dashboard
+### 📊 OPAY HR Analytics Dashboard
 
 - Workforce Overview Dashboard
 
 - Employee Performance Dashboard
 
 - Training & HR Investment Dashboard
-
-### 📊 Sales Performance Dashboard
-
-Excel dashboard analyzing sales trends and revenue performance.
 
 </details>
 
@@ -120,14 +116,6 @@ Excel dashboard analyzing sales trends and revenue performance.
 
 <summary>Click to see my featured Power BI projects</summary>
 
-### 📈 Business Performance Dashboard
-
-Interactive dashboard for KPI and revenue monitoring.
-
-### 📈 Customer Insights Dashboard
-
-Power BI dashboard for customer behavior analysis.
-
 </details>
 
 ---
@@ -143,14 +131,6 @@ Power BI dashboard for customer behavior analysis.
 <details>
 
 <summary>Click to see my featured SQL projects</summary>
-
-### 🗄 Customer Sales Analysis
-
-SQL analysis of customer purchasing behavior and revenue trends.
-
-### 🗄 Employee Database Analysis
-
-SQL queries for workforce and HR insights.
 
 </details>
 
