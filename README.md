@@ -44,7 +44,7 @@ An interactive HR Analytics Dashboard project built in Microsoft Excel featuring
 - Pivot Charts & Slicers
 - HR Business Insights & Recommendations
 
-🔗 [View Project Repository](Add Your GitHub Project Link Here)
+🔗 [View Project Repository](https://github.com/Prince-of-tech/OPAY_HR_ANALYTICS)
 
 ---
 
