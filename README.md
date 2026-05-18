@@ -1,6 +1,6 @@
 # Hi, I'm Kayode Peace 👋
 
-## Data Analyst | Business Intelligence Analyst | Dashboard Designer
+## Data Analyst | Dashboard Designer
 
 ---
 
