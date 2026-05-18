@@ -1,66 +1,103 @@
-# Hi, I'm Prince of Tech 👋
+# Hi, I'm Kayode Peace 👋
 
-## Data Analyst | Dashboard Designer | Business Intelligence Enthusiast
-
-I am a passionate Data Analyst focused on transforming raw data into actionable business insights through data cleaning, analysis, visualization, and dashboard design.
-
-I enjoy building interactive dashboards and solving business problems using data-driven solutions. My work focuses on HR analytics, business intelligence, reporting, and data storytelling using tools like Excel, SQL, Power BI, and Python.
+## Data Analyst | Business Intelligence Analyst | Dashboard Designer
 
 ---
 
-# 🔧 Tools & Technologies
+# 👨‍💻 About Me
 
+I am a passionate and results-driven Data Analyst dedicated to transforming raw data into actionable business insights. I specialize in data cleaning, analysis, visualization, and dashboard development using tools like Excel, SQL, Power BI, and Python.
+
+I enjoy solving business problems with data-driven solutions and creating interactive dashboards that help organizations monitor performance, improve decision-making, and uncover valuable trends.
+
+My goal is to continuously build impactful analytics projects, improve my technical skills, and grow within the fields of Data Analytics and Business Intelligence.
+
+---
+
+# 🚀 Technical Skills
+
+## Data Analysis
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- KPI Development
+- Data Storytelling
+- Business Insights & Recommendations
+
+## Data Visualization
+- Interactive Dashboard Design
+- Reporting & Visualization
+- Business Intelligence Dashboards
+- Performance Monitoring Dashboards
+
+## Tools & Technologies
 - Microsoft Excel
 - SQL
 - Power BI
-- Pivot Tables & Charts
-- Data Visualization
-- Dashboard Design
-- Business Intelligence
+- Python
+- Pivot Tables
+- Power Query
+- Conditional Formatting
 
 ---
 
-# 📊 What I Do
+# 📂 Project Portfolio
 
-- Data Cleaning & Preparation
-- Data Analysis
-- KPI Reporting
-- Interactive Dashboard Development
-- Business Insights & Recommendations
-- Data Storytelling
+## 📊 Excel Projects
+Click below to view all Excel projects:
 
----
+🔗 [View Excel Projects](https://github.com/Prince-of-tech?tab=repositories&q=excel&type=&language=&sort=)
 
-# 🚀 Featured Project
-
-## HR Analytics Dashboard Project
-An interactive HR Analytics Dashboard project built in Microsoft Excel featuring data cleaning, KPI analysis, pivot tables, charts, slicers, and business insights across workforce overview, employee performance, engagement, and HR investment analysis.
-
-### Project Features
-- Workforce Overview Dashboard
-- Employee Performance & Engagement Dashboard
-- Training & HR Investment Dashboard
-- Interactive KPI Cards
-- Pivot Charts & Slicers
-- HR Business Insights & Recommendations
-
-🔗 [View Project Repository](https://github.com/Prince-of-tech/OPAY_HR_ANALYTICS)
+### Featured Excel Projects
+- HR Analytics Dashboard
+- Sales Performance Dashboard
+- Workforce Analytics Dashboard
+- KPI Reporting Dashboards
 
 ---
 
-# 🚀 Current Goals
+## 🗄 SQL Projects
+Click below to view all SQL projects:
+
+🔗 [View SQL Projects](https://github.com/Prince-of-tech?tab=repositories&q=sql&type=&language=&sort=)
+
+### Featured SQL Projects
+- Customer Sales Analysis
+- Employee Database Analysis
+- Sales & Revenue Queries
+- Business Intelligence Queries
+
+---
+
+## 📈 Power BI Projects
+Click below to view all Power BI projects:
+
+🔗 [View Power BI Projects](https://github.com/Prince-of-tech?tab=repositories&q=powerbi&type=&language=&sort=)
+
+### Featured Power BI Projects
+- Business Performance Dashboard
+- Customer Insights Dashboard
+- Sales Analytics Dashboard
+- HR Analytics Dashboard
+
+---
+
+# 🎯 Current Focus
 
 - Building real-world analytics projects
-- Improving business intelligence skills
-- Sharing data projects on GitHub
-- Growing as a professional data analyst
+- Improving SQL & Power BI expertise
+- Developing business intelligence solutions
+- Sharing professional analytics projects on GitHub
 
 ---
 
 # 📫 Connect With Me
 
+- GitHub: https://github.com/Prince-of-tech
+- LinkedIn: Add Your LinkedIn Link
 - Email: kayodepeace54@gmail.com
 
 ---
 
-Thanks for visiting my GitHub profile!
+# 💡 Portfolio Goal
+
+Transforming complex datasets into actionable business insights through analytics, visualization, and dashboard design.
