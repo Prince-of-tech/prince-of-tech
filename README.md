@@ -61,14 +61,30 @@ My goal is to continuously build impactful analytics projects, improve my techni
 - Interactive Dashboard Design
 - Reporting & Visualization
 - Performance Monitoring Dashboards
+---
+## 🛠️ Technologies & Tools
 
-## Tools & Technologies
-- Microsoft Excel
-- SQL
-- Power BI
-- Pivot Tables
-- Power Query
-- Conditional Formatting
+<p align="left">
+  
+  <!-- Microsoft Excel -->
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="50" height="50" alt="Excel"/>
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI"/>
+
+  <!-- Pivot Tables -->
+  <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="50" height="50" alt="Pivot Tables"/>
+
+  <!-- Power Query -->
+  <img src="https://img.icons8.com/color/96/data-configuration.png" width="50" height="50" alt="Power Query"/>
+
+  <!-- Conditional Formatting -->
+  <img src="https://img.icons8.com/color/96/heat-map.png" width="50" height="50" alt="Conditional Formatting"/>
+
+</p>
 
 ---
 
