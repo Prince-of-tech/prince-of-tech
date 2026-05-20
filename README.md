@@ -3,6 +3,7 @@
 ## Data Analyst | Dashboard Designer
 
 ---
+
 <p align="left">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
