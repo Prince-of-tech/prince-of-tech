@@ -167,6 +167,36 @@ Click on any category to explore all my projects 👇
 - LinkedIn: Add Your LinkedIn Link
 - Email: kayodepeace54@gmail.com
 
+## 🌐 Connect With Me
+
+<p align="left">
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/peacekayode" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="50" height="50" alt="LinkedIn"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/prince-of-tech" target="_blank">
+    <img src="https://img.icons8.com/color/96/github--v1.png" width="50" height="50" alt="GitHub"/>
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/prince_of_tech" target="_blank">
+    <img src="https://img.icons8.com/color/96/twitterx--v1.png" width="50" height="50" alt="X"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:kayodepeace54@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50" height="50" alt="Email"/>
+  </a>
+
+  <!-- TikTok -->
+<a href="https://tiktok.com/@prince.of.tech" target="_blank">
+  <img src="https://img.icons8.com/color/96/tiktok--v1.png" width="50" height="50" alt="TikTok"/>
+</a>
+
+</p>
 ---
 
 # 💡 Portfolio Goal
