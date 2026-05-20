@@ -63,6 +63,12 @@ My goal is to continuously build impactful analytics projects, improve my techni
 - Performance Monitoring Dashboards
 ---
 ## 🛠️ Technologies & Tools
+- Microsoft Excel 
+- SQL 
+- Power BI 
+- Pivot Tables 
+- Power Query 
+- Conditional Formatting
 
 <p align="left">
   
@@ -161,11 +167,6 @@ Click on any category to explore all my projects 👇
 
 ---
 
-# 📫 Connect With Me
-
-- GitHub: https://github.com/Prince-of-tech
-- LinkedIn: Add Your LinkedIn Link
-- Email: kayodepeace54@gmail.com
 
 ## 🌐 Connect With Me
 
@@ -196,7 +197,13 @@ Click on any category to explore all my projects 👇
   <img src="https://img.icons8.com/color/96/tiktok--v1.png" width="50" height="50" alt="TikTok"/>
 </a>
 
+<!-- WhatsApp -->
+<a href="https://wa.me/2348087396225" target="_blank">
+  <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="50" height="50" alt="WhatsApp"/>
+</a>
+
 </p>
+
 ---
 
 # 💡 Portfolio Goal
