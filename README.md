@@ -155,7 +155,7 @@ Click on any category to explore all my projects 👇
 <details>
 
 <summary>Click to see my featured SQL projects</summary>
-
+### 📊 Chocolate Sales Dataset
 </details>
 
 ---
