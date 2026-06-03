@@ -112,20 +112,6 @@ Click on any category to explore all my projects 👇
 
 </a>
 
-<details>
-
-<summary>Click to see my featured Excel projects</summary>
-
-### 📊 OPAY HR Analytics Dashboard
-
-- Workforce Overview Dashboard
-
-- Employee Performance Dashboard
-
-- Training & HR Investment Dashboard
-
-</details>
-
 ---
 
 # 🟡 Power BI Projects
@@ -136,12 +122,6 @@ Click on any category to explore all my projects 👇
 
 </a>
 
-<details>
-
-<summary>Click to see my featured Power BI projects</summary>
-
-</details>
-
 ---
 
 # 🔵 SQL Projects
@@ -151,12 +131,6 @@ Click on any category to explore all my projects 👇
 <img src="https://img.shields.io/badge/View%20All%20SQL%20Projects-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </a>
-
-<details>
-
-<summary>Click to see my featured SQL projects</summary>
-### 📊 Chocolate Sales Dataset
-</details>
 
 ---
 
